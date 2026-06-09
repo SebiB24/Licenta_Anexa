@@ -1,6 +1,6 @@
 # Motor de Randare Ray Tracing Optimizat prin Metode de Integrare Numerică
 
-Acest repository conține codul sursă dezvoltat în cadrul lucrării de licență intitulate **„Optimizarea algoritmilor de iluminare în Ray Tracing utilizând cuadraturi și cubaturi numerice”**, realizată în cadrul Facultății de Matematică și Informatică, Universitatea Babeș-Bolyai (UBB), Cluj-Napoca.
+Acest repository conține codul sursă dezvoltat în cadrul lucrării de licență intitulate **„Metode de Integrare Numerică cu Aplicații”**, realizată în cadrul Facultății de Matematică și Informatică, Universitatea Babeș-Bolyai (UBB), Cluj-Napoca.
 
 Proiectul explorează hibridizarea tehnicilor clasice de sinteză a imaginii stocastice (Monte Carlo) prin utilizarea metodelor deterministe de analiză numerică de înaltă precizie (Gauss-Legendre 2D, Simpson 2D și scheme adaptive de rafinare).
 
@@ -93,7 +93,7 @@ Directorul `MATLAB/` conține codul sursă utilizat pentru analiza teoretică a 
 
 ## 🎓 Credite
 
-* **Autor:** Sergiu-Sebastian B.
-* **Coordonator Științific:** Prof. dr. Teodora Cătinaș
+* **Autor:** Buda Sebastian
+* **Coordonator Științific:** Conf. univ. dr. Teodora Cătinaș
 * **Instituție:** Universitatea Babeș-Bolyai, Facultatea de Matematică și Informatică
 * **An Academic:** 2025 - 2026
