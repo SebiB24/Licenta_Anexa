@@ -1,0 +1,3 @@
+C:/Users/sebyc/Desktop/Licenta/RayTracingInOneWeekend/RayTracer/cmake-build-debug/CMakeFiles/image_file.dir
+C:/Users/sebyc/Desktop/Licenta/RayTracingInOneWeekend/RayTracer/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/sebyc/Desktop/Licenta/RayTracingInOneWeekend/RayTracer/cmake-build-debug/CMakeFiles/rebuild_cache.dir
